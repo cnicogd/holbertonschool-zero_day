@@ -1,12 +1,12 @@
 # holbertonschool-zero_day
 I'm now a Holberton Student, this is my first repository as a full-stack engineer
 0-Day
-This repository contains files written for Vagrant, Emacs, and vi projects completed for my first day, zero-day, at Holberton School. The specific list of projects contained follows:
+This repository contains files written for Vagrant, Emacs,  vi , and git projects completed for my first day, zero-day, at Holberton School. The specific list of projects contained follows:
 
 0x00. Vagrant
 0x01. Emacs
 0x02. vi
-
+0x03. git
 
 Author 
 Nicolas Gonzalez Delgado
